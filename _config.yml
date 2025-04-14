@@ -1,12 +1,5 @@
 title: Nagai Laboratory
 description: Laboratory of Engineering for Maintenance System, Hokkaido University, Sapporo, Japan.
-baseurl: "/skills-github-pages"  
-url: "https://NagaiLab2025.github.io" 
-
-theme: minima  
-
-author:
-  name: Nagai Laboratory
-  email: NagaiLab2025@gmail.com  
- social_links:
-Website: https://www.eng.hokudai.ac.jp/labo/maintenance/nagai/
+baseurl: "/skills-github-pages"
+url: "https://nagailab2025.github.io"
+theme: minima
