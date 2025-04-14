@@ -1,0 +1,37 @@
+/* custom.css */
+
+/* 背景颜色设置为黑灰色 */
+body {
+  background-color: #2a2a2a; /* 深灰色背景 */
+  color: #e0e0e0; /* 文字颜色为浅灰色 */
+}
+
+/* 修改导航栏颜色 */
+nav {
+  background-color: #1f1f1f; /* 深灰色导航栏 */
+}
+
+/* 设置链接颜色 */
+a {
+  color: #b3b3b3; /* 链接颜色为浅灰色 */
+}
+
+/* 设置链接 hover 效果 */
+a:hover {
+  color: #ff9900; /* 悬停时变为橙色 */
+}
+
+/* 修改页面标题颜色 */
+h1, h2, h3, h4, h5, h6 {
+  color: #ffffff; /* 页面标题为白色 */
+}
+
+/* 按钮颜色 */
+button {
+  background-color: #333333;
+  color: #e0e0e0;
+}
+
+button:hover {
+  background-color: #ff9900; /* 悬停时按钮颜色为橙色 */
+}
