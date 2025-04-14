@@ -3,4 +3,4 @@ description: Laboratory of Engineering for Maintenance System, Hokkaido Universi
 baseurl: "/skills-github-pages"
 url: "https://nagailab2025.github.io"
 theme: minima
-css: "assets/css/custom.css"  # 引用自定义 CSS 文件
+css: "assets/css/custom.css"  
