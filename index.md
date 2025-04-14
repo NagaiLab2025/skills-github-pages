@@ -3,6 +3,9 @@ layout: home
 title: Nagai Laboratory
 ---
 
+
+
+
 # Welcome to Nagai Laboratory
 
 **Laboratory of Engineering for Maintenance System**  
@@ -14,3 +17,4 @@ We focus on research related to the performance, evaluation, and maintenance of 
 
 📍 **Location**: Kita 13, Nishi 8, Kita-ku, Sapporo 060-8628, Japan  
 📧 **Contact**: NagaiLab2025@gmail.com
+🌐 **Website**: [https://www.eng.hokudai.ac.jp/labo/maintenance/nagai/](https://www.eng.hokudai.ac.jp/labo/maintenance/nagai/)
