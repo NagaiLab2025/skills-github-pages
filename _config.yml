@@ -1,0 +1,12 @@
+title: Nagai Laboratory
+description: Laboratory of Engineering for Maintenance System, Hokkaido University, Sapporo, Japan.
+baseurl: ""  # 如果放在子目录，比如 /project-name 就写成 "/project-name"
+url: "https://NagaiLab2025.github.io"  # 请替换成你的 GitHub Pages 网址
+
+theme: minima  # GitHub 默认支持的 Jekyll 主题之一
+
+author:
+  name: Nagai Laboratory
+  email: NagaiLab2025@gmail.com  
+ social_links:
+Website: https://www.eng.hokudai.ac.jp/labo/maintenance/nagai/
